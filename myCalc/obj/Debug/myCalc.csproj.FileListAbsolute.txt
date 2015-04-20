@@ -1,0 +1,65 @@
+d:\data\documents\visual studio 2012\Projects\myCalc\myCalc\bin\Debug\myCalc.exe.config
+d:\data\documents\visual studio 2012\Projects\myCalc\myCalc\bin\Debug\myCalc.exe
+d:\data\documents\visual studio 2012\Projects\myCalc\myCalc\bin\Debug\myCalc.pdb
+d:\data\documents\visual studio 2012\Projects\myCalc\myCalc\obj\Debug\myCalc.csprojResolveAssemblyReference.cache
+d:\data\documents\visual studio 2012\Projects\myCalc\myCalc\obj\Debug\MainWindow.baml
+d:\data\documents\visual studio 2012\Projects\myCalc\myCalc\obj\Debug\MainWindow.g.cs
+d:\data\documents\visual studio 2012\Projects\myCalc\myCalc\obj\Debug\App.g.cs
+d:\data\documents\visual studio 2012\Projects\myCalc\myCalc\obj\Debug\myCalc_MarkupCompile.cache
+d:\data\documents\visual studio 2012\Projects\myCalc\myCalc\obj\Debug\myCalc.g.resources
+d:\data\documents\visual studio 2012\Projects\myCalc\myCalc\obj\Debug\myCalc.Properties.Resources.resources
+d:\data\documents\visual studio 2012\Projects\myCalc\myCalc\obj\Debug\myCalc.csproj.GenerateResource.Cache
+d:\data\documents\visual studio 2012\Projects\myCalc\myCalc\obj\Debug\myCalc.exe
+d:\data\documents\visual studio 2012\Projects\myCalc\myCalc\obj\Debug\myCalc.pdb
+D:\Data\Documents\Visual Studio 2012\Projects\myCalc_Start\myCalc\bin\Debug\myCalc.exe.config
+D:\Data\Documents\Visual Studio 2012\Projects\myCalc_Start\myCalc\obj\Debug\myCalc.exe
+D:\Data\Documents\Visual Studio 2012\Projects\myCalc_Start\myCalc\obj\Debug\myCalc.pdb
+D:\Data\Documents\Visual Studio 2012\Projects\myCalc_Start\myCalc\bin\Debug\myCalc.exe
+D:\Data\Documents\Visual Studio 2012\Projects\myCalc_Start\myCalc\bin\Debug\myCalc.pdb
+D:\Data\Documents\Visual Studio 2012\Projects\myCalc_Start\myCalc\obj\Debug\myCalc.csprojResolveAssemblyReference.cache
+D:\Data\Documents\Visual Studio 2012\Projects\myCalc_Start\myCalc\obj\Debug\MainWindow.baml
+D:\Data\Documents\Visual Studio 2012\Projects\myCalc_Start\myCalc\obj\Debug\MainWindow.g.cs
+D:\Data\Documents\Visual Studio 2012\Projects\myCalc_Start\myCalc\obj\Debug\App.g.cs
+D:\Data\Documents\Visual Studio 2012\Projects\myCalc_Start\myCalc\obj\Debug\myCalc_MarkupCompile.cache
+D:\Data\Documents\Visual Studio 2012\Projects\myCalc_Start\myCalc\obj\Debug\myCalc.g.resources
+D:\Data\Documents\Visual Studio 2012\Projects\myCalc_Start\myCalc\obj\Debug\myCalc.Properties.Resources.resources
+D:\Data\Documents\Visual Studio 2012\Projects\myCalc_Start\myCalc\obj\Debug\myCalc.csproj.GenerateResource.Cache
+D:\Source\Repos\TestRepo\myCalc_Start\myCalc\bin\Debug\myCalc.exe.config
+D:\Source\Repos\TestRepo\myCalc_Start\myCalc\obj\Debug\myCalc.exe
+D:\Source\Repos\TestRepo\myCalc_Start\myCalc\obj\Debug\myCalc.pdb
+D:\Source\Repos\TestRepo\myCalc_Start\myCalc\obj\Debug\myCalc.csprojResolveAssemblyReference.cache
+D:\Source\Repos\TestRepo\myCalc_Start\myCalc\obj\Debug\MainWindow.baml
+D:\Source\Repos\TestRepo\myCalc_Start\myCalc\obj\Debug\MainWindow.g.cs
+D:\Source\Repos\TestRepo\myCalc_Start\myCalc\obj\Debug\App.g.cs
+D:\Source\Repos\TestRepo\myCalc_Start\myCalc\obj\Debug\myCalc_MarkupCompile.cache
+D:\Source\Repos\TestRepo\myCalc_Start\myCalc\obj\Debug\myCalc.g.resources
+D:\Source\Repos\TestRepo\myCalc_Start\myCalc\obj\Debug\myCalc.Properties.Resources.resources
+D:\Source\Repos\TestRepo\myCalc_Start\myCalc\obj\Debug\myCalc.csproj.GenerateResource.Cache
+C:\Users\edhank\Source\Repos\Assignments\myCalc\myCalc\bin\Debug\myCalc.exe.config
+C:\Users\edhank\Source\Repos\Assignments\myCalc\myCalc\obj\Debug\myCalc.exe
+C:\Users\edhank\Source\Repos\Assignments\myCalc\myCalc\obj\Debug\myCalc.csprojResolveAssemblyReference.cache
+C:\Users\edhank\Source\Repos\Assignments\myCalc\myCalc\obj\Debug\MainWindow.baml
+C:\Users\edhank\Source\Repos\Assignments\myCalc\myCalc\obj\Debug\MainWindow.g.cs
+C:\Users\edhank\Source\Repos\Assignments\myCalc\myCalc\obj\Debug\App.g.cs
+C:\Users\edhank\Source\Repos\Assignments\myCalc\myCalc\obj\Debug\myCalc_MarkupCompile.cache
+C:\Users\edhank\Source\Repos\Assignments\myCalc\myCalc\obj\Debug\myCalc.g.resources
+C:\Users\edhank\Source\Repos\Assignments\myCalc\myCalc\obj\Debug\myCalc.Properties.Resources.resources
+C:\Users\edhank\Source\Repos\Assignments\myCalc\myCalc\obj\Debug\myCalc.csproj.GenerateResource.Cache
+C:\Users\edhank\Source\Repos\Assignments\myCalc\myCalc\bin\Debug\myCalc.exe
+C:\Users\edhank\Source\Repos\Assignments\myCalc\myCalc\bin\Debug\myCalc.pdb
+C:\Users\edhank\Source\Repos\Assignments\myCalc\myCalc\obj\Debug\myCalc.pdb
+C:\Users\edhank\Source\Repos\Assignments\myCalc\myCalc\obj\Debug\myCalc.AboutBox1.resources
+D:\林睿峰的世界\myCalc\myCalc\bin\Debug\myCalc.exe.config
+D:\林睿峰的世界\myCalc\myCalc\obj\Debug\myCalc.exe
+D:\林睿峰的世界\myCalc\myCalc\obj\Debug\myCalc.pdb
+D:\林睿峰的世界\myCalc\myCalc\bin\Debug\myCalc.exe
+D:\林睿峰的世界\myCalc\myCalc\bin\Debug\myCalc.pdb
+D:\林睿峰的世界\myCalc\myCalc\obj\Debug\myCalc.csprojResolveAssemblyReference.cache
+D:\林睿峰的世界\myCalc\myCalc\obj\Debug\MainWindow.baml
+D:\林睿峰的世界\myCalc\myCalc\obj\Debug\MainWindow.g.cs
+D:\林睿峰的世界\myCalc\myCalc\obj\Debug\App.g.cs
+D:\林睿峰的世界\myCalc\myCalc\obj\Debug\myCalc_MarkupCompile.cache
+D:\林睿峰的世界\myCalc\myCalc\obj\Debug\myCalc.g.resources
+D:\林睿峰的世界\myCalc\myCalc\obj\Debug\myCalc.AboutBox1.resources
+D:\林睿峰的世界\myCalc\myCalc\obj\Debug\myCalc.Properties.Resources.resources
+D:\林睿峰的世界\myCalc\myCalc\obj\Debug\myCalc.csproj.GenerateResource.Cache
